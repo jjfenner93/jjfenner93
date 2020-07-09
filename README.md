@@ -1,4 +1,10 @@
-# Hello [Blog] (https://jjfenner93.github.io/Portfolio/index.html) 👋
+# Hello!
+
+[Portfolio](https://jjfenner93.github.io/Portfolio/index.html)
+
+[Blog](https://jjfenner93.github.io/Portfolio/blog.html)
+
+👋
 
 <!--
 **jjfenner93/jjfenner93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

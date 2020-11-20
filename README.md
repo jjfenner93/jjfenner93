@@ -4,7 +4,7 @@
 
 [Blog](https://jjfenner93.github.io/Portfolio/blog.html)
 
-- 🔭 I’m currently working on my Portfolio and upcoming apps.
+- 🔭 I’m currently working on my Portfolio and upcoming apps (projects).
 
 👋
 

@@ -4,7 +4,8 @@
 
 [Blog](https://jjfenner93.github.io/Portfolio/blog.html)
 
-- 🔭 I’m currently working on my Portfolio and upcoming apps (projects).
+- 🔭 I'm currently working on my Portfolio and upcoming apps (projects) now and then.
+- 🌱 I'm currently learning at KS3/KS4 level (school).
 
 👋
 
@@ -14,7 +15,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

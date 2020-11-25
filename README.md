@@ -5,7 +5,7 @@
 [Blog](https://jjfenner93.github.io/Portfolio/blog.html)
 
 - 🔭 I'm currently working on my Portfolio and upcoming apps (projects) now and then.
-- 🌱 I'm currently learning at KS3/KS4 level (school).
+- 🌱 I'm currently learning at KS3/4 level (school).
 
 👋
 

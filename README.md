@@ -1,9 +1,5 @@
 # Hello!
 
-[Portfolio](https://jjfenner93.github.io/Portfolio/index.html)
-
-[Blog](https://jjfenner93.github.io/Portfolio/blog.html)
-
 - 🔭 I'm currently working on my Portfolio and upcoming apps (projects) now and then.
 - 🌱 I'm currently learning at KS3/4 level (school).
 
@@ -17,6 +13,8 @@
 
 Here are some ideas to get you started:
 
+- [Portfolio](https://jjfenner93.github.io/Portfolio/index.html)
+- [Blog](https://jjfenner93.github.io/Portfolio/blog.html)
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

@@ -1,6 +1,6 @@
 # Hello!
 
-- 🔭 I'm currently working on my Portfolio and upcoming apps (projects) now and then.
+- 🔭 I'm currently working on my portfolio and upcoming projects as regularly as I can.
 - 🌱 I'm currently learning at KS3/4 level (school).
 
 <h4 align="left">Knowledge:</h4>
